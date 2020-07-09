@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 Hi there 
+
+### 📫 How to reach me
+
+| LinkedIn | Twitter |
+|:--------:|:-------:|
+| [![LinkedIn](https://image.flaticon.com/icons/svg/124/124011.svg)](https://www.linkedin.com/in/seungjaeryanlee/) | [![Twitter](https://image.flaticon.com/icons/svg/124/124021.svg)](https://twitter.com/seungjaeryanlee) |
+
 
 <!--
 **seungjaeryanlee/seungjaeryanlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +17,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
