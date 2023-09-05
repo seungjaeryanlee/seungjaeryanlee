@@ -7,8 +7,8 @@ I am a math major at Princeton University with minors in computer science and ma
 ### 📫 How to reach me
 
 <p float="left">
-  <a href="https://www.linkedin.com/in/seungjaeryanlee/"><img src="https://image.flaticon.com/icons/svg/124/124011.svg" alt="LinkedIn Logo" width="60" /></a>
-  <a href="https://twitter.com/seungjaeryanlee"><img src="https://image.flaticon.com/icons/svg/124/124021.svg" alt="Twitter Logo" width="60" /></a>
+  <a href="https://www.linkedin.com/in/seungjaeryanlee/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn Logo" width="60"/></a>
+  <a href="https://twitter.com/seungjaeryanlee"><img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="Twitter Logo" width="50" /></a>
 </p>
 
 <!--
