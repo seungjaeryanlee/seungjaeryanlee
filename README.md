@@ -1,6 +1,8 @@
 ### 👋 Hi there 
 
-I am a math major at Princeton University with minors in computer science and machine learning. I believe in learning by doing, and I always welcome new, exciting challenges that will help me grow. Each summer, I explored different interests, from conducting math research, founding a startup, and interning as a software engineer or a machine learning engineer. I also developed multiple personal projects and contributed to several open-source projects, I spend my free time teaching or translating, because I believe that sharing knowledge will make the world a better place.
+I am a Machine Learning Engineer at Bloomberg. I believe in learning by doing, and I always welcome new, exciting challenges that will help me grow.
+
+I graduated froom Princeton University with a Bachelors Degree on Mathematics with minors in (1) Computer Science and (2) Machine Learning. 
 
 ⚡ Fun fact ⚡: When I type, I use all five fingers of my left hand, but just two fingers of my right hand.
 
