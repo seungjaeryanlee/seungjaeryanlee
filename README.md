@@ -2,7 +2,7 @@
 
 I'm a Senior Machine Learning Engineer at Bloomberg, working on LLM-powered tools for information extraction and analyst workflows.
 
-My current interests are practical AI agents, evaluation, grounding, tool use, and the engineering systems that make LLM workflows reliable enough for real users.
+My current interests are practical AI agents, evaluation, reinforcement learning, grounding, tool use, and the engineering systems that make LLM workflows reliable enough for real users.
 
 Outside work, I write and build around those themes:
 
@@ -15,7 +15,7 @@ Previously, I studied mathematics at Princeton, with minors in computer science 
 ## What I'm interested in
 
 - AI agents that do useful work beyond demos
-- LLM evaluation, reliability, and failure analysis
+- LLM evaluation, reinforcement learning, reliability, and failure analysis
 - Grounded extraction from messy documents and web data
 - Research-adjacent engineering: tools, experiments, benchmarks, and systems for understanding model behavior
 
