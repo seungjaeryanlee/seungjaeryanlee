@@ -1,27 +1,25 @@
-### 👋 Hi there 
+# Hi, I'm Ryan 👋
 
-I am a Machine Learning Engineer at Bloomberg. I believe in learning by doing, and I always welcome new, exciting challenges that will help me grow.
+I'm a Senior Machine Learning Engineer at Bloomberg, working on LLM-powered tools for information extraction and analyst workflows.
 
-I graduated froom Princeton University with a Bachelors Degree on Mathematics with minors in (1) Computer Science and (2) Machine Learning. 
+My current interests are practical AI agents, evaluation, grounding, tool use, and the engineering systems that make LLM workflows reliable enough for real users.
 
-⚡ Fun fact ⚡: When I type, I use all five fingers of my left hand, but just two fingers of my right hand.
+Outside work, I write and build around those themes:
 
-### 📫 How to reach me
+- [ryanlee.ai](https://www.ryanlee.ai) — notes on AI agents, LLMs, web extraction, and practical automation
+- [Agents in Practice](https://www.linkedin.com/newsletters/agents-in-practice-7473205953136340992) — a weekly field note on agent research, benchmarks, and lessons from using agents in real workflows
+- [Hermes Agent as My Day-to-Day AI Interface](https://www.ryanlee.ai/posts/hermes-agent/) — a concrete example of the kind of human/agent workflow infrastructure I'm exploring
 
-<p float="left">
-  <a href="https://www.linkedin.com/in/seungjaeryanlee/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn Logo" width="60"/></a>
-  <a href="https://twitter.com/seungjaeryanlee"><img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="Twitter Logo" width="50" /></a>
-</p>
+Previously, I studied mathematics at Princeton, with minors in computer science and machine learning.
 
-<!--
-**seungjaeryanlee/seungjaeryanlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm interested in
 
-Here are some ideas to get you started:
+- AI agents that do useful work beyond demos
+- LLM evaluation, reliability, and failure analysis
+- Grounded extraction from messy documents and web data
+- Research-adjacent engineering: tools, experiments, benchmarks, and systems for understanding model behavior
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--->
+## Links
+
+- Website: [ryanlee.ai](https://www.ryanlee.ai)
+- LinkedIn: [linkedin.com/in/seungjaeryanlee](https://www.linkedin.com/in/seungjaeryanlee)
